@@ -6,4 +6,4 @@
 
 
 ## Open Datasets
-[Open Datasets by exca](https://github.com/excainsights/HORIZON/tree/main/Datasets)
+* [Open Datasets by exca](https://github.com/excainsights/HORIZON/tree/main/Datasets)
