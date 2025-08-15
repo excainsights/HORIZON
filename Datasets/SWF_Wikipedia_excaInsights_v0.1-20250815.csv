@@ -1,0 +1,96 @@
+﻿Continent,Region,Country or Region,Fund Name,Abbreviation,Assets,Inception,Origin of Funds
+Africa,Eastern Africa,Rwanda,Agaciro Development Fund,AGDF,$200000000.00,2012,Non-commodity
+Africa,Middle Africa,Angola,Fundo Soberano de Angola,FSDEA,$2200000000.00,2012,Oil & Gas
+Africa,Middle Africa,Equatorial Guinea,Fonds de Réserves pour Générations Futures,FRGF,$200000000.00,2002,Oil & Gas
+Africa,Middle Africa,Gabon,Fonds Gabonais d'Investissements Strategiques,FGIS,$1000000000.00,2012,Oil & Gas
+Africa,Northern Africa,Libya,Libyan Investment Authority,LIA,$67000000000.00,2006,Oil & Gas
+Africa,Southern Africa,Botswana,Pula Fund,PF,$4100000000.00,1994,Diamonds
+Africa,Western Africa,Ghana,Ghana Petroleum Funds,GPF,$900000000.00,2011,Oil & Gas
+Africa,Western Africa,Mauritania,National Fund for Hydrocarbon Reserves,NFHR,$100000000.00,2006,Oil & Gas
+Africa,Western Africa,Nigeria,Bayelsa Development and Investment Corporation,BDIC,$100000000.00,2012,Non-commodity
+Africa,Western Africa,Nigeria,Nigeria Sovereign Investment Authority,NSIA,$2300000000.00,2011,Oil & Gas
+Africa,Western Africa,Senegal,Fonds Souverain d'Investissement Strategiques,FONSIS,$100000000.00,2012,Non-commodity
+Asia,Central Asia,Kazakhstan,Kazakhstan National Fund,NF,$55700000000.00,2012,Oil & Gas
+Asia,Central Asia,Kazakhstan,Samruk-Kazyna,SK,$80665000000.00,2008,Oil & Gas
+Asia,Central Asia,Turkmenistan,Turkmenistan Stabilization Fund,TSF,$500000000.00,2008,Oil & Gas
+Asia,Eastern Asia,China,China Investment Corporation,CIC,$1332000000000.00,2007,Non-commodity
+Asia,Eastern Asia,China,China-Africa Development Fund,CADF,$5000000000.00,2007,Non-commodity
+Asia,Eastern Asia,China,National Council for Social Security Fund,NSSF,$414000000000.00,2000,Non-commodity
+Asia,Eastern Asia,China,SAFE Investment Company,SAFE,$1090000000000.00,1997,Non-commodity
+Asia,Eastern Asia,Hong Kong,Exchange Fund (Hong Kong),HKMA,$514000000000.00,1935,Non-commodity
+Asia,Eastern Asia,Japan,Japan Investment Corporation,JIC,$12200000000.00,2018,Non-commodity
+Asia,Eastern Asia,Mongolia,"Chinggis Fund, Future Heritage Fund",FHF,$100000000.00,2011,Minerals
+Asia,Eastern Asia,South Korea,Korea Investment Corporation,KIC,$189000000000.00,2005,Non-commodity
+Asia,Southeast Asia,Brunei,Brunei Investment Agency,BIA,$73000000000.00,1983,Oil & Gas
+Asia,Southeast Asia,Indonesia,Danantara Indonesia Sovereign Fund,Danantara,$20000000000.00,2025,Oil & Gas / Non-commodity
+Asia,Southeast Asia,Indonesia,Indonesia Investment Authority,INA,$7600000000.00,2021,Non-commodity
+Asia,Southeast Asia,Malaysia,Khazanah Nasional,KN,$36100000000.00,1993,Non-commodity
+Asia,Southeast Asia,Philippines,Maharlika Investment Fund,MIF,$9200000000.00,2023,Non-commodity
+Asia,Southeast Asia,Singapore,Central Provident Fund,CPF,$436000000000.00,1955,Pension fund
+Asia,Southeast Asia,Singapore,GIC Private Limited,GIC,$801000000000.00,1981,Non-commodity
+Asia,Southeast Asia,Singapore,Temasek Holdings,TH,$287000000000.00,1974,Non-commodity
+Asia,Southeast Asia,Timor Leste,Timor-Leste Petroleum Fund,TLPF,$17000000000.00,2005,Oil & Gas
+Asia,Southeast Asia,Vietnam,State Capital Investment Corporation,SCIC,$2400000000.00,2006,Non-commodity
+Asia,Southern Asia,India,National Investment and Infrastructure Fund,NIIF,$5300000000.00,2015,Non-commodity
+Asia,Southern Asia,Iran,National Development Fund,NDFI,$156000000000.00,2011,Oil & Gas
+Asia,Southern Asia,Pakistan,Pakistan Sovereign Wealth Fund,PK,$8060000000.00,2023,Non-commodity
+Asia,Western Asia,Azerbaijan,State Oil Fund of the Republic of Azerbaijan,SOFAZ,$43000000000.00,1999,Oil & Gas
+Asia,Western Asia,Bahrain,Mumtalakat Holding Company,BMHC,$18300000000.00,2006,Oil & Gas
+Asia,Western Asia,Israel,Israeli Citizens' Fund,CIF,$2080000000.00,2022,Gas & Minerals
+Asia,Western Asia,Kuwait,Awqaf and Islamic Affairs Fund,AWQAF,$1990000000.00,1993,Non-commodity
+Asia,Western Asia,Kuwait,Kuwait Investment Authority,KIA,$1029000000000.00,1953,Oil & Gas
+Asia,Western Asia,Oman,Oman Investment Fund,OIA,$47000000000.00,2020,Oil & Gas
+Asia,Western Asia,Palestine,Palestine Investment Fund,PIF,$900000000.00,2003,Non-commodity
+Asia,Western Asia,Qatar,Qatar Investment Authority,QIA,$526000000000.00,2005,Oil & Gas
+Asia,Western Asia,Saudi Arabia,Public Investment Fund,PIF,$925000000000.00,1971,Oil & Gas
+Asia,Western Asia,Turkey,Turkey Wealth Fund,TWF,$317000000000.00,2017,Non-commodity
+Asia,Western Asia,United Arab Emirates,Abu Dhabi Developmental Holding Company,ADQ,$196000000000.00,2018,Non-commodity
+Asia,Western Asia,United Arab Emirates,Abu Dhabi Investment Authority,ADIA,$1057000000000.00,1976,Oil & Gas
+Asia,Western Asia,United Arab Emirates,Dubai World,DW,$80000000000.00,2005,Non-commodity
+Asia,Western Asia,United Arab Emirates,Emirates Investment Authority,EIA,$87000000000.00,2007,Oil & Gas
+Asia,Western Asia,United Arab Emirates,Investment Corporation of Dubai,ICD,$341000000000.00,2006,Oil & Gas
+Asia,Western Asia,United Arab Emirates,Mubadala Investment Company,PJSC,$302000000000.00,2002,Oil & Gas
+Asia,Western Asia,United Arab Emirates,Ras Al Khaimah Investment Authority,RAKIA,$2000000000.00,2005,Oil & Gas
+Asia,Western Asia,United Arab Emirates,Sharjah Asset Management Holding,SAM,$2000000000.00,2008,Non-commodity
+Europe,Northern Europe,Ireland,Future Ireland Fund,FIF,$9100000000.00,2024,Non-commodity
+Europe,Northern Europe,Ireland,Ireland Strategic Investment Fund,ISIF,$16100000000.00,2014,Non-commodity
+Europe,Northern Europe,Norway,Government Pension Fund – Norway,GPF-N,$22000000000.00,2006,Oil & Gas
+Europe,Northern Europe,Norway,Government Pension Fund Global,GPF-G,$1738000000000.00,1990,Oil & Gas
+Europe,Northern Europe,United Kingdom,National Wealth Fund,NWF,$27800000000.00,2024,Non-commodity
+Europe,Southern Europe,Italy,Cassa Depositi e Prestiti Equity,CDP Equity,$394000000000.00,2011,Non-commodity
+Europe,Western Europe,Austria,Österreichische Beteiligungs AG,ÖBAG,$38400000000.00,1967,Non-commodity
+Europe,Western Europe,Belgium,Federale Participatie- en Investeringsmaatschappij ,SFPIM,$2000000000.00,1962,Non-commodity
+Europe,Western Europe,France,Bpifrance,BPI,$33500000000.00,2008,Non-commodity
+Europe,Western Europe,Germany,Nuclear Waste Disposal Fund,NWDF,$25000000000.00,2017,Non-commodity
+Europe/Asia,Eastern Europe/Northern Asia,Russia,Russian Direct Investment Fund,RDIF,$25000000000.00,2011,Non-commodity
+Europe/Asia,Eastern Europe/Northern Asia,Russia,Russian National Wealth Fund,NWF,$133000000000.00,2008,Oil & Gas
+North America,Caribbean,Trinidad & Tobago,Heritage and Stabilization Fund,HSF,$5600000000.00,2000,Oil & Gas
+North America,Central America,Mexico,Fondo Mexicano del Petroleo para la Estabilizacion y el Desarrollo,FMP,$7000000000.00,2000,Oil & Gas
+North America,Central America,Panama,Fondo de Ahorro de Panama,FAP,$1400000000.00,2012,Non-commodity
+North America,Northern America,Canada,Alberta Heritage Savings Trust Fund,AHSTF,$15000000000.00,1976,Oil & Gas
+North America,Northern America,Canada,Alberta Investment Management Corporation,AIMCo,$123000000000.00,2008,Non-commodity
+North America,Northern America,United States,Alabama Trust Fund,ATF,$3400000000.00,1985,Oil & Gas
+North America,Northern America,United States,Alaska Permanent Fund,APF,$80463000000.00,1976,Oil & Gas
+North America,Northern America,United States,Colorado Public School Fund Endowment Board,FMP,$1200000000.00,2016,Lands and Minerals Royalties
+North America,Northern America,United States,Idaho Endowment Fund Investment Board,IEFIB,$3200000000.00,1969,Land & Mineral Royalties
+North America,Northern America,United States,Louisiana Education Quality Trust Fund,LEQTF,$1500000000.00,1986,Oil & Gas
+North America,Northern America,United States,New Mexico Land Grant Permanent Fund,LGPF,$32093000000.00,1912,Land & Mineral Royalties
+North America,Northern America,United States,New Mexico Severance Tax Permanent Fund,STPF,$9747000000.00,1973,Oil & Gas
+North America,Northern America,United States,North Dakota Legacy Fund,NDLF,$10879000000.00,2011,Oil & Gas
+North America,Northern America,United States,Oregon Common School Fund,CSF,$2000000000.00,1859,Lands & Mineral Royalties
+North America,Northern America,United States,Permanent Wyoming Mineral Trust Fund,PWMTF,$11130000000.00,1974,Minerals
+North America,Northern America,United States,Texas Permanent School Fund,PSF,$57291000000.00,1854,Land & Mineral Royalties
+North America,Northern America,United States,Texas Permanent University Fund,PUF,$36469000000.00,1876,Land & Mineral Royalties
+North America,Northern America,United States,Utah School and Institutional Trust Funds Office,SIFTO,$2500000000.00,1983,Land & Mineral Royalties
+North America,Northern America,United States,West Virginia Future Fund,WVFF,$100000000.00,2014,Oil & Gas
+North America,Northern America,United States,Wisconsin Board of Commissioners of Public Lands,BCPL,$1400000000.00,1848,"Land, Timber and Non-commodity"
+Oceania,Australia and New Zealand,Australia,Future Fund,FF,$158000000000.00,2006,Non-commodity
+Oceania,Australia and New Zealand,Australia,Western Australian Future Fund,WAFF,$900000000.00,2012,Minerals
+Oceania,Australia and New Zealand,New Zealand,New Zealand Superannuation Fund,NZSF,$35100000000.00,2003,Non-commodity
+Oceania,Melanesia,Papua New Guinea,Papua New Guinea Sovereign Wealth Fund,PNGSWF,$22000000000.00,2011,Oil & Gas
+Oceania,Micronesia,Kiribati,Revenue Equalization Reserve Fund,RERF,$1500000000.00,1956,Phosphates
+South America,South America,Bolivia,Fondo para la Revolución Industrial Productiva,FINPRO,$400000000.00,2015,Non-commodity
+South America,South America,Chile,Economic and Social Stabilization Fund,ESSF,$11000000000.00,2007,Copper
+South America,South America,Chile,Pension Reserve Fund,PRF,$11000000000.00,2006,Copper
+South America,South America,Colombia,Fondo de Ahorro y Estabilización Petrolera,FAEP,$12000000000.00,1995,Oil & Gas
+South America,South America,Peru,Fiscal Stabilization Fund,FSF,$5000000000.00,1999,Non-commodity
