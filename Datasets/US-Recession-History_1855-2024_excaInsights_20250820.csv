@@ -1,0 +1,35 @@
+﻿Duration (months),Start Date,End Date,Index,Crash Name
+18,"Monday, June 1, 1857","Friday, December 31, 1858",1,Panic of 1857
+8,"Monday, October 1, 1860","Sunday, June 30, 1861",2,Secession Recession
+32,"Saturday, April 1, 1865","Tuesday, December 31, 1867",3,Post–Civil War Recession
+18,"Tuesday, June 1, 1869","Saturday, December 31, 1870",4,Recession of 1869–1870
+65,"Wednesday, October 1, 1873","Monday, March 31, 1879",5,Panic of 1873 / Long Depression
+38,"Wednesday, March 1, 1882","Sunday, May 31, 1885",6,Recession of 1882–1885
+13,"Tuesday, March 1, 1887","Monday, April 30, 1888",7,Recession of 1887–1888
+10,"Tuesday, July 1, 1890","Sunday, May 31, 1891",8,Recession of 1890–1891
+17,"Sunday, January 1, 1893","Saturday, June 30, 1894",9,Panic of 1893
+18,"Sunday, December 1, 1895","Wednesday, June 30, 1897",10,Recession of 1896–1897
+18,"Thursday, June 1, 1899","Monday, December 31, 1900",11,Recession of 1899–1900
+23,"Monday, September 1, 1902","Wednesday, August 31, 1904",12,Recession of 1902–1904
+13,"Wednesday, May 1, 1907","Tuesday, June 30, 1908",13,Panic of 1907
+24,"Saturday, January 1, 1910","Wednesday, January 31, 1912",14,Recession of 1910–1912
+23,"Saturday, February 1, 1913","Thursday, December 31, 1914",15,Recession of 1913–1914
+7,"Thursday, August 1, 1918","Monday, March 31, 1919",16,Post–WWI Recession
+18,"Thursday, January 1, 1920","Sunday, July 31, 1921",17,Depression of 1920–1921
+14,"Tuesday, May 1, 1923","Thursday, July 31, 1924",18,Recession of 1923–1924
+13,"Friday, October 1, 1926","Wednesday, November 30, 1927",19,Recession of 1926–1927
+43,"Thursday, August 1, 1929","Friday, March 31, 1933",20,Wall Street Crash of 1929  (Black Tuesday)
+13,"Saturday, May 1, 1937","Thursday, June 30, 1938",21,Recession of 1937–1938 (Roosevelt Recession)
+8,"Thursday, February 1, 1945","Wednesday, October 31, 1945",22,Post–WWII Recession
+11,"Monday, November 1, 1948","Monday, October 31, 1949",23,Recession of 1949
+10,"Wednesday, July 1, 1953","Monday, May 31, 1954",24,Recession of 1953
+8,"Thursday, August 1, 1957","Wednesday, April 30, 1958",25,Recession of 1958
+10,"Friday, April 1, 1960","Tuesday, February 28, 1961",26,Recession of 1960–1961
+11,"Monday, December 1, 1969","Monday, November 30, 1970",27,Recession of 1969–1970
+16,"Thursday, November 1, 1973","Monday, March 31, 1975",28,Oil Crisis Recession
+6,"Tuesday, January 1, 1980","Thursday, July 31, 1980",29,Early 1980s Recessions (1st dip)
+16,"Wednesday, July 1, 1981","Tuesday, November 30, 1982",30,Early 1980s Recessions (2nd dip)
+8,"Sunday, July 1, 1990","Sunday, March 31, 1991",31,Early 1990s Recession
+8,"Thursday, March 1, 2001","Friday, November 30, 2001",32,Dot-com Bubble Burst
+18,"Saturday, December 1, 2007","Tuesday, June 30, 2009",33,Great Recession
+2,"Saturday, February 1, 2020","Thursday, April 30, 2020",34,COVID-19 Recession
