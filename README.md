@@ -5,6 +5,8 @@
 
 -----
 ## Open Datasets
+`All datasets used in the reports are available in the Datasets folder in CSV format.
+Each dataset is named to match the reference provided next to its corresponding report, making it easy to locate and use.`
 * [Open Datasets by exca](https://github.com/excainsights/HORIZON/tree/main/Datasets)
 
 ## Reports
